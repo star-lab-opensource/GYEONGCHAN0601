@@ -1,8 +1,11 @@
-# My Project
-깃허브 첫 프로젝트 README 실습입니다.
+# CafeteriaPathFinder
 
-## 실행방법
-README 파일 수정은 깃허브 Overview에서 바로 할 수 있습니다.
+
+## 내용 설명
+-급식실 가는 타이밍
+-일주일 마다 반 바꾸기
+
+
 
 ## 화면 미리보기
 ![스크린샷](https://placehold.co/600x400)
