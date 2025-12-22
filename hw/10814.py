@@ -21,3 +21,4 @@ for i in range(len(list)):
 for k in range(len(list)):
     print(list[k][0],list[k][1])
 
+
